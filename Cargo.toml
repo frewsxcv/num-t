@@ -1,0 +1,13 @@
+[package]
+name = "num-t"
+version = "1.0.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/frewsxcv/num-t"
+edition = "2021"
+rust-version = "1.82"
+description = "Num<T>: Associate arbitrary types with numeric types"
+
+[dependencies]
+float_next_after = { version = "1.0.0", optional = true }
+geo = { version = "0.29", optional = true }
+num-traits = "0.2"

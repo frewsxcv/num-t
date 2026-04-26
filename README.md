@@ -1,3 +1,5 @@
+**⚠️ This repository has moved to tangled: <https://tangled.org/rwell.org/num-t> ⚠️**
+
 # num-t
 
 `Num<T>`: Associate arbitrary types with numeric types
